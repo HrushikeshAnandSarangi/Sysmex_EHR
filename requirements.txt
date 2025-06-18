@@ -1,3 +1,4 @@
 xmltodict
 xhtml2pdf
 weasyprint
+Django>=4.0
